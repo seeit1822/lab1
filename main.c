@@ -1,7 +1,9 @@
 #include <stdio.h>
 
+#include "lines.h"
+
 int main()
 {
-	puts("Welcome, user!");
+	puts(MESSAGE_WELCOME);
 }
 
