@@ -13,4 +13,6 @@ int main()
 
 	// Some changes
 	// Нужное изменение
+
+	// Change 3
 }
