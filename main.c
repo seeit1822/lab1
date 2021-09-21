@@ -11,5 +11,6 @@ int main()
 	fwrite(output_file, 1, sizeof(OUTPUT), output_file);
 	fclose(output_file);
 
+	// Some changes
 	// Нужное изменение
 }
